@@ -30,4 +30,14 @@ div{
     margin:0em 0.4rem;
     color: #00A9FF;
     font-weight: 540;
+    cursor: pointer;
+}
+
+/* background img */
+
+body > section{
+    height: 100vh;
+    background: url("https://img.freepik.com/free-vector/abstract-geometric-wireframe-background_52683-59421.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1698624000&semt=ais");
+    background-repeat: no-repeat;
+    background-position: 50px 100px;
 }
